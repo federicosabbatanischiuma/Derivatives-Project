@@ -1,0 +1,12 @@
+# This file can be used for pip-specific packages or
+# for packages not available on Conda, or to pin versions.
+
+# Core scientific computing and plotting libraries
+numpy
+scipy
+matplotlib
+tqdm
+
+# Optional development tools
+# pytest>=7.0
+# black  # for code formatting

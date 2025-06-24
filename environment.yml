@@ -1,0 +1,11 @@
+name: fin404-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy # For optimization, ODEs, root finding
+  - matplotlib # For plotting
+  - tqdm # For progress bars
+  # Add other core dependencies here
